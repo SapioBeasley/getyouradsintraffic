@@ -1,5 +1,5 @@
 ## Contents
-[why]()
+[why](/why)
 
 ### Resources
 https://itsalive.io/<br>
