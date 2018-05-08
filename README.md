@@ -1,5 +1,7 @@
 ## Contents
-[why](/why)
+[why](/why.md)
+[todo](/todo.md)
+[specs](/specs.md)
 
 ### Resources
 https://itsalive.io/<br>
